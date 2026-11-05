@@ -1,0 +1,301 @@
+OrderID,Date,CustomerID,Region,Channel,Category,Product,Quantity,UnitPrice_KES,Revenue_KES,PaymentMethod
+ORD0001,2026-03-23,CUST032,Mombasa,In-Store,Electronics,Wireless Mouse,3,1800,5400,M-Pesa
+ORD0002,2026-03-28,CUST005,Nairobi,In-Store,Electronics,Bluetooth Speaker,4,5200,20800,M-Pesa
+ORD0003,2026-03-06,CUST092,Nakuru,In-Store,Electronics,Bluetooth Speaker,2,5200,10400,Cash
+ORD0004,2026-02-05,CUST044,Kisumu,In-Store,Electronics,Keyboard,4,3200,12800,Card
+ORD0005,2026-01-14,CUST046,Kisumu,In-Store,Electronics,Power Bank,1,3500,3500,M-Pesa
+ORD0006,2026-02-28,CUST071,Kisumu,Online,Electronics,Power Bank,1,3500,3500,Cash
+ORD0007,2026-02-16,CUST085,Mombasa,Online,Home & Office,Desk Lamp,1,2800,2800,M-Pesa
+ORD0008,2026-01-30,CUST059,Kisumu,In-Store,Electronics,Power Bank,3,3500,10500,Card
+ORD0009,2026-01-27,CUST082,Mombasa,In-Store,Personal Care,Hair Dryer,5,4800,24000,M-Pesa
+ORD0010,2026-01-21,CUST119,Mombasa,Online,Accessories,Earphones,3,3000,9000,M-Pesa
+ORD0011,2026-01-30,CUST035,Nairobi,In-Store,Electronics,USB-C Hub,4,4500,18000,Cash
+ORD0012,2026-02-10,CUST114,Nakuru,In-Store,Home & Office,Water Bottle,4,1500,6000,M-Pesa
+ORD0013,2026-02-01,CUST115,Nakuru,In-Store,Personal Care,Face Cleanser,4,1600,6400,M-Pesa
+ORD0014,2026-03-07,CUST111,Nairobi,In-Store,Accessories,Phone Case,1,1100,1100,M-Pesa
+ORD0015,2026-03-29,CUST050,Nakuru,In-Store,Accessories,Smart Watch Strap,1,1400,1400,Card
+ORD0016,2026-03-09,CUST088,Nairobi,Online,Personal Care,Face Cleanser,1,1600,1600,Cash
+ORD0017,2026-02-04,CUST056,Mombasa,In-Store,Personal Care,Hair Dryer,3,4800,14400,Cash
+ORD0018,2026-02-03,CUST112,Kisumu,Online,Home & Office,Backpack,1,4200,4200,Cash
+ORD0019,2026-03-19,CUST098,Mombasa,In-Store,Home & Office,Notebook Pack,3,900,2700,Cash
+ORD0020,2026-01-01,CUST015,Kisumu,Online,Personal Care,Perfume,1,5500,5500,Card
+ORD0021,2026-01-31,CUST011,Nairobi,Online,Electronics,Keyboard,5,3200,16000,M-Pesa
+ORD0022,2026-03-10,CUST071,Mombasa,In-Store,Home & Office,Notebook Pack,4,900,3600,Cash
+ORD0023,2026-02-24,CUST092,Kisumu,In-Store,Home & Office,Backpack,2,4200,8400,Cash
+ORD0024,2026-03-25,CUST058,Nairobi,In-Store,Personal Care,Perfume,5,5500,27500,M-Pesa
+ORD0025,2026-02-13,CUST030,Mombasa,In-Store,Electronics,Bluetooth Speaker,5,5200,26000,Cash
+ORD0026,2026-03-22,CUST116,Nairobi,Online,Electronics,Keyboard,1,3200,3200,M-Pesa
+ORD0027,2026-03-07,CUST028,Mombasa,Online,Home & Office,Office Chair,4,14500,58000,Cash
+ORD0028,2026-03-15,CUST104,Nakuru,In-Store,Accessories,Charging Cable,4,950,3800,M-Pesa
+ORD0029,2026-03-26,CUST053,Nakuru,Online,Accessories,Laptop Sleeve,4,2600,10400,M-Pesa
+ORD0030,2026-03-28,CUST094,Kisumu,Online,Electronics,Wireless Mouse,4,1800,7200,M-Pesa
+ORD0031,2026-02-01,CUST058,Mombasa,In-Store,Home & Office,Notebook Pack,5,900,4500,Card
+ORD0032,2026-03-01,CUST104,Nairobi,In-Store,Home & Office,Desk Lamp,4,2800,11200,Cash
+ORD0033,2026-01-02,CUST053,Nakuru,In-Store,Electronics,Keyboard,2,3200,6400,Card
+ORD0034,2026-01-08,CUST050,Kisumu,Online,Home & Office,Water Bottle,1,1500,1500,Card
+ORD0035,2026-02-06,CUST020,Mombasa,In-Store,Accessories,Smart Watch Strap,4,1400,5600,M-Pesa
+ORD0036,2026-03-16,CUST007,Nakuru,In-Store,Electronics,USB-C Hub,1,4500,4500,Cash
+ORD0037,2026-01-21,CUST109,Mombasa,In-Store,Electronics,Bluetooth Speaker,1,5200,5200,M-Pesa
+ORD0038,2026-03-28,CUST114,Mombasa,In-Store,Home & Office,Water Bottle,1,1500,1500,M-Pesa
+ORD0039,2026-03-21,CUST073,Kisumu,Online,Electronics,Power Bank,5,3500,17500,M-Pesa
+ORD0040,2026-03-27,CUST051,Mombasa,Online,Personal Care,Electric Shaver,3,6500,19500,Card
+ORD0041,2026-02-28,CUST059,Nairobi,In-Store,Personal Care,Hair Dryer,1,4800,4800,M-Pesa
+ORD0042,2026-03-06,CUST113,Nairobi,Online,Personal Care,Electric Shaver,3,6500,19500,Card
+ORD0043,2026-02-06,CUST091,Kisumu,In-Store,Home & Office,Water Bottle,5,1500,7500,Cash
+ORD0044,2026-03-09,CUST120,Nairobi,Online,Electronics,Bluetooth Speaker,3,5200,15600,M-Pesa
+ORD0045,2026-02-03,CUST020,Kisumu,In-Store,Electronics,Wireless Mouse,5,1800,9000,M-Pesa
+ORD0046,2026-02-13,CUST063,Kisumu,Online,Home & Office,Office Chair,5,14500,72500,M-Pesa
+ORD0047,2026-01-12,CUST001,Kisumu,Online,Accessories,Laptop Sleeve,1,2600,2600,Cash
+ORD0048,2026-02-03,CUST091,Nakuru,In-Store,Home & Office,Water Bottle,5,1500,7500,M-Pesa
+ORD0049,2026-01-10,CUST107,Kisumu,In-Store,Home & Office,Backpack,1,4200,4200,M-Pesa
+ORD0050,2026-02-25,CUST047,Nairobi,Online,Home & Office,Desk Lamp,3,2800,8400,M-Pesa
+ORD0051,2026-03-29,CUST100,Nakuru,Online,Home & Office,Desk Lamp,3,2800,8400,Cash
+ORD0052,2026-01-20,CUST113,Nakuru,In-Store,Home & Office,Notebook Pack,2,900,1800,Cash
+ORD0053,2026-02-12,CUST021,Nairobi,In-Store,Accessories,Charging Cable,3,950,2850,M-Pesa
+ORD0054,2026-03-02,CUST045,Kisumu,Online,Home & Office,Notebook Pack,4,900,3600,M-Pesa
+ORD0055,2026-01-29,CUST043,Kisumu,Online,Electronics,Keyboard,4,3200,12800,Card
+ORD0056,2026-02-14,CUST004,Nairobi,Online,Accessories,Smart Watch Strap,3,1400,4200,Card
+ORD0057,2026-01-23,CUST077,Nakuru,In-Store,Personal Care,Hair Dryer,1,4800,4800,Card
+ORD0058,2026-02-25,CUST025,Kisumu,In-Store,Electronics,Power Bank,5,3500,17500,Card
+ORD0059,2026-01-01,CUST009,Kisumu,Online,Home & Office,Office Chair,4,14500,58000,Cash
+ORD0060,2026-01-16,CUST086,Nakuru,In-Store,Personal Care,Face Cleanser,3,1600,4800,Cash
+ORD0061,2026-02-07,CUST086,Nakuru,Online,Home & Office,Notebook Pack,4,900,3600,M-Pesa
+ORD0062,2026-03-20,CUST107,Nairobi,In-Store,Personal Care,Perfume,5,5500,27500,M-Pesa
+ORD0063,2026-02-25,CUST057,Mombasa,In-Store,Personal Care,Perfume,4,5500,22000,Cash
+ORD0064,2026-01-22,CUST085,Kisumu,In-Store,Electronics,USB-C Hub,5,4500,22500,M-Pesa
+ORD0065,2026-03-28,CUST019,Nairobi,In-Store,Personal Care,Electric Shaver,2,6500,13000,Card
+ORD0066,2026-03-20,CUST114,Mombasa,Online,Electronics,Power Bank,4,3500,14000,Card
+ORD0067,2026-03-05,CUST084,Nairobi,Online,Accessories,Charging Cable,2,950,1900,M-Pesa
+ORD0068,2026-02-24,CUST060,Nairobi,In-Store,Home & Office,Notebook Pack,5,900,4500,M-Pesa
+ORD0069,2026-02-28,CUST072,Kisumu,Online,Home & Office,Water Bottle,5,1500,7500,Card
+ORD0070,2026-03-20,CUST115,Mombasa,Online,Accessories,Smart Watch Strap,4,1400,5600,Card
+ORD0071,2026-02-27,CUST099,Nakuru,Online,Personal Care,Electric Shaver,3,6500,19500,Card
+ORD0072,2026-02-26,CUST035,Kisumu,In-Store,Electronics,USB-C Hub,2,4500,9000,Cash
+ORD0073,2026-01-11,CUST050,Mombasa,Online,Home & Office,Notebook Pack,2,900,1800,M-Pesa
+ORD0074,2026-02-23,CUST060,Nakuru,In-Store,Accessories,Laptop Sleeve,5,2600,13000,Card
+ORD0075,2026-02-19,CUST062,Nairobi,Online,Electronics,Bluetooth Speaker,4,5200,20800,Card
+ORD0076,2026-02-19,CUST103,Mombasa,In-Store,Accessories,Smart Watch Strap,5,1400,7000,Card
+ORD0077,2026-02-25,CUST044,Nakuru,Online,Accessories,Phone Case,4,1100,4400,Card
+ORD0078,2026-01-17,CUST073,Nairobi,In-Store,Electronics,Power Bank,5,3500,17500,Card
+ORD0079,2026-01-18,CUST034,Nakuru,In-Store,Accessories,Charging Cable,1,950,950,Card
+ORD0080,2026-02-11,CUST097,Nakuru,In-Store,Personal Care,Perfume,3,5500,16500,M-Pesa
+ORD0081,2026-03-02,CUST045,Mombasa,Online,Electronics,Bluetooth Speaker,1,5200,5200,Cash
+ORD0082,2026-01-06,CUST108,Nairobi,Online,Electronics,Keyboard,2,3200,6400,M-Pesa
+ORD0083,2026-01-17,CUST028,Nakuru,Online,Accessories,Phone Case,5,1100,5500,Card
+ORD0084,2026-01-22,CUST014,Nairobi,Online,Electronics,Keyboard,3,3200,9600,Cash
+ORD0085,2026-03-28,CUST010,Mombasa,In-Store,Accessories,Earphones,2,3000,6000,Card
+ORD0086,2026-03-29,CUST045,Nakuru,Online,Electronics,Bluetooth Speaker,1,5200,5200,M-Pesa
+ORD0087,2026-03-06,CUST106,Nakuru,In-Store,Personal Care,Hair Dryer,4,4800,19200,Card
+ORD0088,2026-03-23,CUST023,Kisumu,In-Store,Accessories,Charging Cable,4,950,3800,Cash
+ORD0089,2026-03-03,CUST035,Kisumu,Online,Accessories,Earphones,5,3000,15000,M-Pesa
+ORD0090,2026-02-05,CUST073,Nakuru,In-Store,Accessories,Charging Cable,4,950,3800,Card
+ORD0091,2026-02-11,CUST046,Kisumu,In-Store,Home & Office,Water Bottle,2,1500,3000,Cash
+ORD0092,2026-03-31,CUST067,Mombasa,In-Store,Personal Care,Face Cleanser,1,1600,1600,Cash
+ORD0093,2026-02-22,CUST089,Nakuru,Online,Accessories,Smart Watch Strap,2,1400,2800,Card
+ORD0094,2026-02-27,CUST029,Nakuru,Online,Electronics,Wireless Mouse,3,1800,5400,Card
+ORD0095,2026-03-26,CUST068,Kisumu,In-Store,Personal Care,Perfume,5,5500,27500,Cash
+ORD0096,2026-03-12,CUST035,Kisumu,In-Store,Personal Care,Body Lotion,4,1200,4800,M-Pesa
+ORD0097,2026-01-25,CUST098,Mombasa,In-Store,Personal Care,Hair Dryer,5,4800,24000,Cash
+ORD0098,2026-03-03,CUST077,Kisumu,Online,Personal Care,Face Cleanser,5,1600,8000,M-Pesa
+ORD0099,2026-02-07,CUST039,Nairobi,Online,Home & Office,Office Chair,2,14500,29000,M-Pesa
+ORD0100,2026-02-05,CUST038,Mombasa,Online,Electronics,Wireless Mouse,5,1800,9000,Card
+ORD0101,2026-01-14,CUST061,Nakuru,In-Store,Electronics,Bluetooth Speaker,3,5200,15600,M-Pesa
+ORD0102,2026-01-07,CUST106,Nairobi,In-Store,Personal Care,Perfume,1,5500,5500,M-Pesa
+ORD0103,2026-03-15,CUST104,Kisumu,In-Store,Electronics,Keyboard,2,3200,6400,M-Pesa
+ORD0104,2026-01-16,CUST102,Mombasa,Online,Accessories,Smart Watch Strap,5,1400,7000,Card
+ORD0105,2026-02-27,CUST055,Kisumu,In-Store,Accessories,Laptop Sleeve,5,2600,13000,M-Pesa
+ORD0106,2026-03-20,CUST034,Nairobi,In-Store,Electronics,Keyboard,2,3200,6400,M-Pesa
+ORD0107,2026-03-12,CUST053,Nakuru,Online,Electronics,Keyboard,1,3200,3200,Card
+ORD0108,2026-02-07,CUST091,Kisumu,Online,Electronics,Keyboard,3,3200,9600,Card
+ORD0109,2026-01-10,CUST085,Mombasa,In-Store,Home & Office,Office Chair,5,14500,72500,Cash
+ORD0110,2026-01-29,CUST010,Nairobi,In-Store,Home & Office,Office Chair,2,14500,29000,Card
+ORD0111,2026-03-18,CUST060,Kisumu,Online,Personal Care,Perfume,1,5500,5500,Card
+ORD0112,2026-03-06,CUST077,Nairobi,Online,Accessories,Earphones,1,3000,3000,Cash
+ORD0113,2026-02-11,CUST030,Nairobi,Online,Personal Care,Hair Dryer,1,4800,4800,Cash
+ORD0114,2026-02-04,CUST067,Nakuru,Online,Electronics,Keyboard,4,3200,12800,M-Pesa
+ORD0115,2026-03-16,CUST061,Kisumu,In-Store,Accessories,Earphones,1,3000,3000,Card
+ORD0116,2026-03-27,CUST053,Nakuru,In-Store,Electronics,Keyboard,3,3200,9600,Card
+ORD0117,2026-03-12,CUST041,Kisumu,In-Store,Electronics,Power Bank,1,3500,3500,Card
+ORD0118,2026-03-07,CUST053,Nairobi,In-Store,Electronics,Bluetooth Speaker,4,5200,20800,Card
+ORD0119,2026-03-21,CUST027,Kisumu,In-Store,Accessories,Earphones,1,3000,3000,Card
+ORD0120,2026-02-26,CUST081,Mombasa,Online,Accessories,Phone Case,1,1100,1100,Card
+ORD0121,2026-03-12,CUST012,Mombasa,Online,Electronics,Bluetooth Speaker,4,5200,20800,M-Pesa
+ORD0122,2026-03-01,CUST120,Kisumu,In-Store,Electronics,Keyboard,4,3200,12800,Card
+ORD0123,2026-02-23,CUST059,Mombasa,In-Store,Accessories,Earphones,2,3000,6000,Cash
+ORD0124,2026-03-07,CUST099,Nakuru,In-Store,Home & Office,Desk Lamp,3,2800,8400,Cash
+ORD0125,2026-02-04,CUST108,Nakuru,Online,Electronics,USB-C Hub,3,4500,13500,Card
+ORD0126,2026-03-10,CUST071,Nakuru,In-Store,Accessories,Laptop Sleeve,3,2600,7800,Card
+ORD0127,2026-01-25,CUST030,Nakuru,In-Store,Home & Office,Backpack,4,4200,16800,Cash
+ORD0128,2026-03-02,CUST064,Nairobi,In-Store,Accessories,Earphones,2,3000,6000,Cash
+ORD0129,2026-02-12,CUST068,Nakuru,In-Store,Electronics,Power Bank,1,3500,3500,M-Pesa
+ORD0130,2026-02-22,CUST101,Kisumu,In-Store,Home & Office,Desk Lamp,4,2800,11200,Cash
+ORD0131,2026-02-20,CUST049,Kisumu,Online,Electronics,USB-C Hub,5,4500,22500,Card
+ORD0132,2026-03-11,CUST031,Kisumu,Online,Electronics,Bluetooth Speaker,1,5200,5200,Cash
+ORD0133,2026-01-12,CUST057,Mombasa,Online,Accessories,Phone Case,1,1100,1100,M-Pesa
+ORD0134,2026-01-06,CUST046,Kisumu,In-Store,Personal Care,Hair Dryer,3,4800,14400,M-Pesa
+ORD0135,2026-03-09,CUST022,Mombasa,In-Store,Accessories,Smart Watch Strap,2,1400,2800,Card
+ORD0136,2026-03-21,CUST019,Mombasa,In-Store,Home & Office,Water Bottle,5,1500,7500,Card
+ORD0137,2026-02-28,CUST116,Kisumu,Online,Personal Care,Hair Dryer,4,4800,19200,M-Pesa
+ORD0138,2026-01-10,CUST039,Nakuru,Online,Accessories,Laptop Sleeve,5,2600,13000,Card
+ORD0139,2026-02-08,CUST014,Mombasa,In-Store,Home & Office,Water Bottle,4,1500,6000,Card
+ORD0140,2026-03-15,CUST107,Nakuru,In-Store,Personal Care,Body Lotion,1,1200,1200,Cash
+ORD0141,2026-03-29,CUST107,Kisumu,Online,Electronics,Bluetooth Speaker,4,5200,20800,M-Pesa
+ORD0142,2026-03-19,CUST080,Kisumu,Online,Personal Care,Electric Shaver,2,6500,13000,Cash
+ORD0143,2026-03-26,CUST040,Nakuru,In-Store,Home & Office,Desk Lamp,1,2800,2800,Card
+ORD0144,2026-01-17,CUST096,Nakuru,In-Store,Electronics,USB-C Hub,3,4500,13500,M-Pesa
+ORD0145,2026-03-11,CUST117,Kisumu,Online,Personal Care,Face Cleanser,5,1600,8000,Card
+ORD0146,2026-03-03,CUST060,Nairobi,In-Store,Personal Care,Body Lotion,1,1200,1200,M-Pesa
+ORD0147,2026-03-28,CUST012,Nakuru,In-Store,Accessories,Smart Watch Strap,3,1400,4200,Cash
+ORD0148,2026-01-16,CUST075,Nakuru,Online,Accessories,Laptop Sleeve,3,2600,7800,Card
+ORD0149,2026-01-14,CUST080,Kisumu,Online,Home & Office,Water Bottle,1,1500,1500,M-Pesa
+ORD0150,2026-03-24,CUST084,Nakuru,In-Store,Electronics,Power Bank,3,3500,10500,M-Pesa
+ORD0151,2026-01-05,CUST013,Mombasa,Online,Personal Care,Perfume,1,5500,5500,M-Pesa
+ORD0152,2026-02-19,CUST054,Mombasa,Online,Accessories,Laptop Sleeve,5,2600,13000,Cash
+ORD0153,2026-01-13,CUST036,Nairobi,Online,Accessories,Smart Watch Strap,4,1400,5600,M-Pesa
+ORD0154,2026-02-26,CUST013,Kisumu,In-Store,Accessories,Charging Cable,3,950,2850,Cash
+ORD0155,2026-02-15,CUST025,Nairobi,Online,Electronics,Power Bank,3,3500,10500,Card
+ORD0156,2026-01-12,CUST007,Kisumu,In-Store,Home & Office,Backpack,1,4200,4200,M-Pesa
+ORD0157,2026-03-14,CUST027,Mombasa,Online,Home & Office,Desk Lamp,5,2800,14000,M-Pesa
+ORD0158,2026-02-12,CUST036,Mombasa,Online,Home & Office,Backpack,1,4200,4200,Cash
+ORD0159,2026-02-02,CUST017,Nairobi,In-Store,Home & Office,Desk Lamp,1,2800,2800,M-Pesa
+ORD0160,2026-03-17,CUST034,Nairobi,In-Store,Personal Care,Hair Dryer,2,4800,9600,Card
+ORD0161,2026-03-09,CUST058,Kisumu,In-Store,Electronics,Wireless Mouse,4,1800,7200,M-Pesa
+ORD0162,2026-02-27,CUST094,Kisumu,In-Store,Home & Office,Backpack,1,4200,4200,M-Pesa
+ORD0163,2026-01-08,CUST088,Nairobi,In-Store,Accessories,Earphones,4,3000,12000,Card
+ORD0164,2026-01-10,CUST019,Nairobi,In-Store,Electronics,USB-C Hub,5,4500,22500,Cash
+ORD0165,2026-03-23,CUST068,Kisumu,In-Store,Personal Care,Perfume,5,5500,27500,Cash
+ORD0166,2026-02-25,CUST093,Mombasa,In-Store,Electronics,Wireless Mouse,5,1800,9000,M-Pesa
+ORD0167,2026-02-22,CUST054,Nairobi,In-Store,Personal Care,Perfume,4,5500,22000,Card
+ORD0168,2026-03-27,CUST088,Nakuru,In-Store,Personal Care,Body Lotion,2,1200,2400,M-Pesa
+ORD0169,2026-01-12,CUST104,Mombasa,In-Store,Accessories,Phone Case,3,1100,3300,Cash
+ORD0170,2026-03-13,CUST046,Nakuru,Online,Personal Care,Hair Dryer,4,4800,19200,Cash
+ORD0171,2026-01-07,CUST046,Nairobi,In-Store,Personal Care,Face Cleanser,3,1600,4800,M-Pesa
+ORD0172,2026-01-20,CUST045,Kisumu,In-Store,Accessories,Charging Cable,1,950,950,Card
+ORD0173,2026-03-15,CUST099,Nairobi,In-Store,Home & Office,Water Bottle,5,1500,7500,Cash
+ORD0174,2026-03-30,CUST035,Kisumu,Online,Personal Care,Hair Dryer,2,4800,9600,Card
+ORD0175,2026-01-01,CUST085,Nakuru,In-Store,Home & Office,Notebook Pack,5,900,4500,Cash
+ORD0176,2026-03-23,CUST028,Nakuru,In-Store,Electronics,Wireless Mouse,5,1800,9000,Card
+ORD0177,2026-01-21,CUST100,Nairobi,Online,Personal Care,Body Lotion,3,1200,3600,M-Pesa
+ORD0178,2026-01-21,CUST057,Nakuru,In-Store,Electronics,Wireless Mouse,3,1800,5400,Card
+ORD0179,2026-02-23,CUST015,Kisumu,In-Store,Personal Care,Electric Shaver,5,6500,32500,Card
+ORD0180,2026-03-28,CUST006,Mombasa,In-Store,Accessories,Smart Watch Strap,3,1400,4200,Cash
+ORD0181,2026-01-08,CUST028,Mombasa,Online,Electronics,Keyboard,3,3200,9600,Card
+ORD0182,2026-02-11,CUST096,Nakuru,In-Store,Electronics,Wireless Mouse,4,1800,7200,Card
+ORD0183,2026-03-10,CUST107,Kisumu,In-Store,Home & Office,Backpack,5,4200,21000,Cash
+ORD0184,2026-01-06,CUST118,Nairobi,Online,Accessories,Phone Case,4,1100,4400,Cash
+ORD0185,2026-02-24,CUST015,Nakuru,In-Store,Accessories,Earphones,3,3000,9000,Card
+ORD0186,2026-01-22,CUST056,Nairobi,In-Store,Accessories,Laptop Sleeve,1,2600,2600,Cash
+ORD0187,2026-02-21,CUST096,Kisumu,In-Store,Electronics,Power Bank,3,3500,10500,M-Pesa
+ORD0188,2026-01-10,CUST025,Kisumu,In-Store,Electronics,Bluetooth Speaker,5,5200,26000,Cash
+ORD0189,2026-01-19,CUST033,Mombasa,In-Store,Home & Office,Desk Lamp,2,2800,5600,M-Pesa
+ORD0190,2026-03-25,CUST060,Nakuru,Online,Electronics,Keyboard,4,3200,12800,Cash
+ORD0191,2026-03-24,CUST057,Nairobi,In-Store,Personal Care,Body Lotion,2,1200,2400,Cash
+ORD0192,2026-02-08,CUST046,Nairobi,In-Store,Personal Care,Face Cleanser,1,1600,1600,Card
+ORD0193,2026-01-05,CUST010,Nairobi,In-Store,Electronics,USB-C Hub,3,4500,13500,Cash
+ORD0194,2026-02-19,CUST102,Nairobi,In-Store,Accessories,Smart Watch Strap,5,1400,7000,Cash
+ORD0195,2026-03-25,CUST061,Mombasa,Online,Home & Office,Office Chair,5,14500,72500,Card
+ORD0196,2026-01-14,CUST083,Mombasa,In-Store,Personal Care,Hair Dryer,5,4800,24000,Cash
+ORD0197,2026-02-26,CUST079,Mombasa,In-Store,Accessories,Smart Watch Strap,5,1400,7000,Card
+ORD0198,2026-02-19,CUST007,Kisumu,In-Store,Accessories,Laptop Sleeve,5,2600,13000,M-Pesa
+ORD0199,2026-03-13,CUST093,Mombasa,In-Store,Accessories,Laptop Sleeve,3,2600,7800,Cash
+ORD0200,2026-03-26,CUST084,Nakuru,In-Store,Home & Office,Office Chair,3,14500,43500,Cash
+ORD0201,2026-01-11,CUST083,Kisumu,Online,Personal Care,Face Cleanser,4,1600,6400,Cash
+ORD0202,2026-03-31,CUST047,Nairobi,In-Store,Electronics,Power Bank,5,3500,17500,M-Pesa
+ORD0203,2026-01-28,CUST029,Mombasa,In-Store,Personal Care,Perfume,2,5500,11000,Card
+ORD0204,2026-01-13,CUST017,Nakuru,In-Store,Electronics,USB-C Hub,5,4500,22500,M-Pesa
+ORD0205,2026-03-30,CUST053,Kisumu,Online,Home & Office,Water Bottle,1,1500,1500,M-Pesa
+ORD0206,2026-02-26,CUST069,Mombasa,In-Store,Personal Care,Perfume,2,5500,11000,Card
+ORD0207,2026-01-25,CUST060,Kisumu,Online,Personal Care,Face Cleanser,4,1600,6400,Cash
+ORD0208,2026-03-09,CUST103,Mombasa,Online,Accessories,Charging Cable,2,950,1900,M-Pesa
+ORD0209,2026-03-24,CUST120,Nairobi,Online,Accessories,Laptop Sleeve,5,2600,13000,Cash
+ORD0210,2026-01-16,CUST035,Nakuru,Online,Personal Care,Hair Dryer,2,4800,9600,M-Pesa
+ORD0211,2026-02-25,CUST114,Kisumu,Online,Electronics,Keyboard,4,3200,12800,Card
+ORD0212,2026-01-07,CUST031,Nakuru,Online,Accessories,Smart Watch Strap,3,1400,4200,Card
+ORD0213,2026-01-29,CUST108,Kisumu,Online,Electronics,USB-C Hub,1,4500,4500,M-Pesa
+ORD0214,2026-01-05,CUST098,Nakuru,In-Store,Personal Care,Perfume,2,5500,11000,M-Pesa
+ORD0215,2026-01-11,CUST107,Mombasa,In-Store,Electronics,USB-C Hub,2,4500,9000,Cash
+ORD0216,2026-03-19,CUST031,Kisumu,In-Store,Accessories,Phone Case,3,1100,3300,M-Pesa
+ORD0217,2026-02-23,CUST108,Nakuru,In-Store,Accessories,Phone Case,1,1100,1100,M-Pesa
+ORD0218,2026-03-22,CUST055,Nairobi,In-Store,Home & Office,Notebook Pack,3,900,2700,M-Pesa
+ORD0219,2026-03-15,CUST068,Kisumu,In-Store,Accessories,Charging Cable,1,950,950,Cash
+ORD0220,2026-03-11,CUST006,Nakuru,Online,Electronics,Power Bank,4,3500,14000,Card
+ORD0221,2026-01-03,CUST031,Nairobi,Online,Personal Care,Hair Dryer,3,4800,14400,Cash
+ORD0222,2026-02-12,CUST070,Kisumu,Online,Home & Office,Desk Lamp,3,2800,8400,M-Pesa
+ORD0223,2026-03-29,CUST104,Mombasa,In-Store,Accessories,Earphones,2,3000,6000,Card
+ORD0224,2026-01-05,CUST102,Mombasa,Online,Personal Care,Electric Shaver,1,6500,6500,Card
+ORD0225,2026-02-09,CUST033,Nairobi,Online,Accessories,Smart Watch Strap,4,1400,5600,M-Pesa
+ORD0226,2026-02-06,CUST035,Nairobi,Online,Personal Care,Hair Dryer,3,4800,14400,Card
+ORD0227,2026-02-21,CUST024,Nakuru,Online,Accessories,Earphones,3,3000,9000,Card
+ORD0228,2026-03-08,CUST011,Nakuru,In-Store,Personal Care,Hair Dryer,4,4800,19200,M-Pesa
+ORD0229,2026-03-11,CUST011,Kisumu,Online,Personal Care,Body Lotion,1,1200,1200,Card
+ORD0230,2026-02-27,CUST045,Nakuru,In-Store,Accessories,Charging Cable,4,950,3800,Card
+ORD0231,2026-03-20,CUST010,Nakuru,In-Store,Accessories,Laptop Sleeve,1,2600,2600,Cash
+ORD0232,2026-03-28,CUST109,Nakuru,In-Store,Home & Office,Desk Lamp,2,2800,5600,M-Pesa
+ORD0233,2026-01-31,CUST073,Nairobi,In-Store,Personal Care,Body Lotion,4,1200,4800,Cash
+ORD0234,2026-02-27,CUST098,Nairobi,In-Store,Personal Care,Body Lotion,4,1200,4800,Cash
+ORD0235,2026-02-16,CUST032,Nairobi,In-Store,Accessories,Laptop Sleeve,3,2600,7800,M-Pesa
+ORD0236,2026-03-05,CUST034,Kisumu,Online,Accessories,Smart Watch Strap,1,1400,1400,M-Pesa
+ORD0237,2026-03-20,CUST016,Mombasa,Online,Personal Care,Perfume,2,5500,11000,Card
+ORD0238,2026-01-23,CUST086,Kisumu,Online,Accessories,Phone Case,3,1100,3300,Cash
+ORD0239,2026-03-11,CUST092,Mombasa,Online,Personal Care,Body Lotion,2,1200,2400,Cash
+ORD0240,2026-01-29,CUST031,Nakuru,In-Store,Electronics,Keyboard,2,3200,6400,Cash
+ORD0241,2026-03-15,CUST017,Nairobi,In-Store,Personal Care,Perfume,5,5500,27500,Card
+ORD0242,2026-03-03,CUST010,Mombasa,Online,Accessories,Earphones,5,3000,15000,Cash
+ORD0243,2026-01-10,CUST045,Mombasa,Online,Accessories,Earphones,5,3000,15000,Cash
+ORD0244,2026-03-23,CUST065,Nairobi,Online,Home & Office,Notebook Pack,4,900,3600,Cash
+ORD0245,2026-01-20,CUST042,Mombasa,In-Store,Personal Care,Electric Shaver,2,6500,13000,Cash
+ORD0246,2026-02-06,CUST082,Kisumu,In-Store,Electronics,USB-C Hub,2,4500,9000,Card
+ORD0247,2026-03-20,CUST076,Mombasa,In-Store,Electronics,Bluetooth Speaker,2,5200,10400,Cash
+ORD0248,2026-03-19,CUST106,Nairobi,In-Store,Personal Care,Face Cleanser,1,1600,1600,Cash
+ORD0249,2026-03-15,CUST054,Nairobi,In-Store,Personal Care,Electric Shaver,5,6500,32500,Cash
+ORD0250,2026-03-11,CUST032,Nakuru,In-Store,Personal Care,Body Lotion,4,1200,4800,M-Pesa
+ORD0251,2026-03-30,CUST054,Nakuru,In-Store,Electronics,Keyboard,4,3200,12800,Card
+ORD0252,2026-03-19,CUST094,Kisumu,Online,Home & Office,Office Chair,3,14500,43500,M-Pesa
+ORD0253,2026-02-17,CUST060,Nairobi,In-Store,Electronics,USB-C Hub,2,4500,9000,M-Pesa
+ORD0254,2026-01-19,CUST050,Nakuru,In-Store,Electronics,Wireless Mouse,3,1800,5400,M-Pesa
+ORD0255,2026-02-11,CUST064,Nakuru,In-Store,Personal Care,Electric Shaver,2,6500,13000,Card
+ORD0256,2026-03-05,CUST065,Nakuru,Online,Electronics,Wireless Mouse,4,1800,7200,M-Pesa
+ORD0257,2026-03-16,CUST037,Nakuru,In-Store,Personal Care,Hair Dryer,1,4800,4800,Cash
+ORD0258,2026-03-28,CUST002,Nairobi,In-Store,Accessories,Laptop Sleeve,5,2600,13000,Card
+ORD0259,2026-02-16,CUST052,Nairobi,In-Store,Accessories,Laptop Sleeve,1,2600,2600,M-Pesa
+ORD0260,2026-02-16,CUST065,Nakuru,Online,Personal Care,Hair Dryer,4,4800,19200,Card
+ORD0261,2026-03-21,CUST051,Kisumu,Online,Electronics,Keyboard,1,3200,3200,Card
+ORD0262,2026-03-13,CUST078,Nakuru,In-Store,Personal Care,Electric Shaver,2,6500,13000,M-Pesa
+ORD0263,2026-01-05,CUST067,Nakuru,In-Store,Home & Office,Office Chair,4,14500,58000,Cash
+ORD0264,2026-01-18,CUST021,Nakuru,Online,Personal Care,Face Cleanser,3,1600,4800,Cash
+ORD0265,2026-02-08,CUST069,Nakuru,Online,Personal Care,Face Cleanser,5,1600,8000,Card
+ORD0266,2026-03-02,CUST087,Nairobi,Online,Electronics,USB-C Hub,3,4500,13500,Cash
+ORD0267,2026-02-09,CUST034,Mombasa,Online,Electronics,Bluetooth Speaker,4,5200,20800,Cash
+ORD0268,2026-03-03,CUST100,Nakuru,In-Store,Home & Office,Backpack,5,4200,21000,Cash
+ORD0269,2026-02-01,CUST025,Nairobi,In-Store,Electronics,Bluetooth Speaker,1,5200,5200,Card
+ORD0270,2026-01-20,CUST065,Nakuru,Online,Accessories,Charging Cable,4,950,3800,Cash
+ORD0271,2026-01-08,CUST072,Kisumu,Online,Home & Office,Backpack,2,4200,8400,Card
+ORD0272,2026-03-09,CUST059,Kisumu,In-Store,Accessories,Laptop Sleeve,2,2600,5200,Cash
+ORD0273,2026-03-29,CUST025,Mombasa,In-Store,Personal Care,Face Cleanser,4,1600,6400,Card
+ORD0274,2026-01-29,CUST089,Nakuru,In-Store,Personal Care,Body Lotion,2,1200,2400,Card
+ORD0275,2026-03-13,CUST074,Nakuru,Online,Personal Care,Body Lotion,1,1200,1200,Card
+ORD0276,2026-02-14,CUST037,Nairobi,In-Store,Home & Office,Office Chair,1,14500,14500,Card
+ORD0277,2026-03-25,CUST026,Kisumu,Online,Personal Care,Perfume,2,5500,11000,Cash
+ORD0278,2026-02-04,CUST095,Mombasa,In-Store,Home & Office,Desk Lamp,5,2800,14000,Cash
+ORD0279,2026-03-09,CUST013,Nakuru,In-Store,Home & Office,Notebook Pack,1,900,900,Card
+ORD0280,2026-01-13,CUST119,Mombasa,In-Store,Home & Office,Desk Lamp,5,2800,14000,Card
+ORD0281,2026-03-03,CUST037,Nairobi,Online,Home & Office,Office Chair,3,14500,43500,M-Pesa
+ORD0282,2026-03-25,CUST117,Mombasa,In-Store,Home & Office,Backpack,1,4200,4200,M-Pesa
+ORD0283,2026-01-05,CUST120,Kisumu,Online,Accessories,Earphones,2,3000,6000,M-Pesa
+ORD0284,2026-02-08,CUST059,Nakuru,Online,Electronics,USB-C Hub,3,4500,13500,M-Pesa
+ORD0285,2026-03-06,CUST104,Nairobi,In-Store,Accessories,Laptop Sleeve,2,2600,5200,Cash
+ORD0286,2026-02-28,CUST095,Kisumu,Online,Personal Care,Electric Shaver,1,6500,6500,Cash
+ORD0287,2026-03-28,CUST110,Nakuru,Online,Home & Office,Notebook Pack,5,900,4500,Cash
+ORD0288,2026-02-11,CUST024,Mombasa,In-Store,Electronics,Power Bank,1,3500,3500,M-Pesa
+ORD0289,2026-01-01,CUST058,Kisumu,Online,Personal Care,Perfume,2,5500,11000,Card
+ORD0290,2026-03-16,CUST089,Mombasa,In-Store,Electronics,USB-C Hub,3,4500,13500,M-Pesa
+ORD0291,2026-03-01,CUST088,Kisumu,Online,Personal Care,Electric Shaver,4,6500,26000,Cash
+ORD0292,2026-02-07,CUST029,Mombasa,In-Store,Personal Care,Face Cleanser,2,1600,3200,Card
+ORD0293,2026-03-19,CUST117,Nakuru,Online,Personal Care,Perfume,5,5500,27500,Cash
+ORD0294,2026-01-28,CUST068,Nakuru,In-Store,Home & Office,Backpack,1,4200,4200,Card
+ORD0295,2026-01-10,CUST116,Mombasa,In-Store,Electronics,Wireless Mouse,5,1800,9000,M-Pesa
+ORD0296,2026-01-22,CUST015,Mombasa,Online,Personal Care,Face Cleanser,4,1600,6400,Card
+ORD0297,2026-01-12,CUST017,Nakuru,In-Store,Accessories,Phone Case,4,1100,4400,M-Pesa
+ORD0298,2026-03-13,CUST051,Kisumu,Online,Accessories,Laptop Sleeve,1,2600,2600,Cash
+ORD0299,2026-01-28,CUST045,Nairobi,In-Store,Electronics,Wireless Mouse,4,1800,7200,M-Pesa
+ORD0300,2026-01-09,CUST053,Mombasa,Online,Accessories,Phone Case,3,1100,3300,Cash
